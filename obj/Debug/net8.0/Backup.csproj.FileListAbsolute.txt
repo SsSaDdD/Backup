@@ -1,0 +1,14 @@
+C:\Mac\Home\Desktop\C#\Backup\Backup\bin\Debug\net8.0\Backup.exe
+C:\Mac\Home\Desktop\C#\Backup\Backup\bin\Debug\net8.0\Backup.deps.json
+C:\Mac\Home\Desktop\C#\Backup\Backup\bin\Debug\net8.0\Backup.runtimeconfig.json
+C:\Mac\Home\Desktop\C#\Backup\Backup\bin\Debug\net8.0\Backup.dll
+C:\Mac\Home\Desktop\C#\Backup\Backup\bin\Debug\net8.0\Backup.pdb
+C:\Mac\Home\Desktop\C#\Backup\Backup\obj\Debug\net8.0\Backup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Desktop\C#\Backup\Backup\obj\Debug\net8.0\Backup.AssemblyInfoInputs.cache
+C:\Mac\Home\Desktop\C#\Backup\Backup\obj\Debug\net8.0\Backup.AssemblyInfo.cs
+C:\Mac\Home\Desktop\C#\Backup\Backup\obj\Debug\net8.0\Backup.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Desktop\C#\Backup\Backup\obj\Debug\net8.0\Backup.dll
+C:\Mac\Home\Desktop\C#\Backup\Backup\obj\Debug\net8.0\refint\Backup.dll
+C:\Mac\Home\Desktop\C#\Backup\Backup\obj\Debug\net8.0\Backup.pdb
+C:\Mac\Home\Desktop\C#\Backup\Backup\obj\Debug\net8.0\Backup.genruntimeconfig.cache
+C:\Mac\Home\Desktop\C#\Backup\Backup\obj\Debug\net8.0\ref\Backup.dll
